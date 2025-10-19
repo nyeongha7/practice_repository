@@ -1,6 +1,7 @@
-nums = [17, 44, 52, 60, 72]
+nums = [199, 350, 422, 609, 939]
 big = nums[0]
 for n in nums:
     if n > big:
         big = n
 print("가장 큰 수:", big)
+

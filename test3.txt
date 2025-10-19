@@ -1,4 +1,4 @@
-nums = [1, 5, 2, 8, 3]
+nums = [199, 350, 422, 609, 939]
 big = nums[0]
 for n in nums:
     if n > big:
